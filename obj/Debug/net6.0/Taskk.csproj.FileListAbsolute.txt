@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.AssemblyInfo.cs
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\Taskk\bin\Debug\net6.0\Taskk.exe
+C:\Users\Adil\Desktop\Taskk\bin\Debug\net6.0\Taskk.deps.json
+C:\Users\Adil\Desktop\Taskk\bin\Debug\net6.0\Taskk.runtimeconfig.json
+C:\Users\Adil\Desktop\Taskk\bin\Debug\net6.0\Taskk.dll
+C:\Users\Adil\Desktop\Taskk\bin\Debug\net6.0\Taskk.pdb
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.dll
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\refint\Taskk.dll
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.pdb
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\Taskk.genruntimeconfig.cache
+C:\Users\Adil\Desktop\Taskk\obj\Debug\net6.0\ref\Taskk.dll
